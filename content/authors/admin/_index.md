@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Mandar Datar
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Mandar 
+last_name: Datar
 
 # Status emoji
 status:
