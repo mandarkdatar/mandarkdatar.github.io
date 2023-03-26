@@ -33,12 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD Computer Science
+      institution: INRIA and Avignon Univesity
+      year: 2022
+    - course: MTech in Control Systems
+      institution: Mumbai University
+      year: 2013
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
