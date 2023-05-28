@@ -7,7 +7,7 @@ sections:
 
 - block: hero
     content:
-      title: Hugo
+      title: Hug
       image:
         filename: hero-academic.png
       cta:
